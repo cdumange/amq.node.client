@@ -1,0 +1,19 @@
+{
+  "name": "amq.node.client",
+  "version": "1.0.0",
+  "description": "lib to user amq over html",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "amq",
+    "rest"
+  ],
+  "author": "c.dumange",
+  "license": "ISC",
+  "dependencies": {
+    "chcn.htmlhandler": "^1.0.4",
+    "mocha": "^5.2.0"
+  }
+}
